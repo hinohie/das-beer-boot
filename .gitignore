@@ -1,0 +1,15 @@
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.filters
+*.wav
+*.mp3
+Debug
+Release
+ipch
+*.dll
+*.lib
+*~
+*.swp
+
